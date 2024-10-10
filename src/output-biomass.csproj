@@ -23,6 +23,7 @@
     <PackageLicenseUrl>https://github.com/LANDIS-II-Foundation/Extension-Output-Biomass-Reclass/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>http://www.landis-ii.org</PackageProjectUrl>
     <PackageReleaseNotes>.NET Standard 2.0 update</PackageReleaseNotes>
+    <GenerateRuntimeConfigurationFiles>true</GenerateRuntimeConfigurationFiles>
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
   </PropertyGroup>
 
